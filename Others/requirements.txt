@@ -1,0 +1,29 @@
+# algorithms
+lime
+adversarial-robustness-toolbox>=1.0.0
+BlackBoxAuditing
+tensorflow>=1.13.1
+torch
+cvxpy>=1.0
+fairlearn>=0.7.0
+tempeh
+rpy2==3.4.5
+skorch==0.11.0
+inFairness>=0.2.2
+
+# notebooks
+jupyter
+tqdm
+igraph[plotting]==0.9.8
+lightgbm==3.1.1
+seaborn
+ipympl
+
+# tests
+pytest>=3.5.0
+pytest-cov>=2.8.1
+
+# docs
+sphinx==1.8.6
+jinja2==3.0.3
+sphinx_rtd_theme==0.4.3

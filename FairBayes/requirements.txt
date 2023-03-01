@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tempeh
+torch==1.2.0
+sklearn
+jupyter
+notebook
+xlrd
