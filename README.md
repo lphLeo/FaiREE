@@ -1,4 +1,4 @@
-# FaiREE: fair classification with finite-sample and distribution-free guarantee
+# FaiREE: Fair Classification with Finite-Sample and Distribution-Free Guarantee
 Puheng Li, James Zou, and Linjun Zhang
 https://arxiv.org/abs/2211.15072
 
